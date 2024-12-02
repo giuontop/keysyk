@@ -54,5 +54,9 @@
     "lifetime-pph34cc00yqz8dcx": {
         "expiration_timestamp": 32503680000,
         "active": true
+    },
+    "month-rq348pexdpn6v3y1": {
+        "expiration_timestamp": 1735691501,
+        "active": true
     }
 }
