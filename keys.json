@@ -2,5 +2,9 @@
     "lifetime-10qzyo2u8xrl152l": {
         "expiration_timestamp": 32503680000,
         "active": true
+    },
+    "hour-uyp2vufj7frc64v0": {
+        "expiration_timestamp": 1733103240,
+        "active": true
     }
 }
