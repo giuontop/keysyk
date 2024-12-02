@@ -1,22 +1,6 @@
 {
-    "lifetime-10qzyo2u8xrl152l": {
-        "expiration_timestamp": 32503680000,
-        "active": true
-    },
-    "hour-uyp2vufj7frc64v0": {
-        "expiration_timestamp": 1733103240,
-        "active": true
-    },
-    "day-aq27g1s5jn8sjf91": {
-        "expiration_timestamp": 1733186041,
-        "active": true
-    },
-    "week-243156eu19pukuri": {
-        "expiration_timestamp": 1733704443,
-        "active": true
-    },
-    "month-lkjkg83ii2wn27li": {
-        "expiration_timestamp": 1735691644,
-        "active": true
-    }
+    "owner": 1735689600,
+    "112": 1733099216,
+    "zz": 9999999999,
+    "onlyforgoodppls": 1738992000
 }
