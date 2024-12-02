@@ -74,5 +74,9 @@
     "day-jzrsbsy6rtn1kx35": {
         "expiration_timestamp": 1733185905,
         "active": true
+    },
+    "lifetime-4m44n6dbh7e6jijn": {
+        "expiration_timestamp": 32503680000,
+        "active": true
     }
 }
