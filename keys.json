@@ -46,5 +46,9 @@
     "month-ealjeyqr9isb3tsi": {
         "expiration_date": "2024-12-30T01:21:29.870302",
         "active": true
+    },
+    "lifetime-xcwfdu8fzesq9xu3": {
+        "expiration_timestamp": 32503680000,
+        "active": true
     }
 }
